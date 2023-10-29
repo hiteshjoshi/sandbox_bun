@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 hakoniwa = "0.4.8"
+psutil = "3.2.2"
